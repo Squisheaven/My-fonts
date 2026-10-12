@@ -1,0 +1,11 @@
+
+{
+  "spec": 1,
+  "name": "NCL Gasdrifo",
+  "previewText": "NCL Gasdrifo font preview",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/Squisheaven/My-fonts/main/NCLGasdrifo-Demo.otf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Squisheaven/My-fonts/main/NCLGasdrifo-Demo.otf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Squisheaven/My-fonts/main/NCLGasdrifo-Demo.otf"
+  }
+}
