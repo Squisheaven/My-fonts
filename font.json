@@ -1,10 +1,11 @@
 
 {
+  "spec": 1,
   "name": "Angel wish",
-  "entries": [
-    {
-      "postScriptName": "Angelwish-Regular",
-      "url": "https://raw.githubusercontent.com/Squisheaven/My-fonts/main/AngelWishRegular-1G9wM.ttf"
-    }
-  ]
+  "previewText": "Angel wish font preview",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/Squisheaven/My-fonts/main/AngelWishRegular-1G9wM.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Squisheaven/My-fonts/main/AngelWishRegular-1G9wM.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Squisheaven/My-fonts/main/AngelWishRegular-1G9wM.ttf"
+  }
 }
